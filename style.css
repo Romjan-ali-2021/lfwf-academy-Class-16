@@ -1,0 +1,70 @@
+
+.mainHead{
+    background-color: #101446;
+}
+.logo img{
+    width: 80px;
+    padding: 7px 0;
+}
+.navBar{
+    text-align: right;
+    margin-bottom: 0;
+}
+.navBar li{
+    display: inline-block;
+    list-style: none;
+}
+.navBar li a{
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    padding: 0 15px;
+    line-height: 65px;
+}
+.navBar li a:hover{
+    background-color: #070922;
+}
+.banner{
+    background-image: url(photos/intro-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 180px;
+    background-position-Y: center;
+    color: #fff;
+}
+.ourTeem{
+    background-color: #BAC1F3;
+}
+.listStyle li{
+    list-style: none;
+}
+.about{
+    background-color: #C2D4EA;
+}
+.from input{
+    width: 400px;
+    padding: 4px;
+    outline: none;
+}
+.footerText{
+    background-color: #F5F5F5;
+    color: #fff;
+}
+#newPage{
+    color: rgb(13, 228, 30);
+    transition: .5s;
+    font-size: 20px;
+    text-decoration: none;
+    float: right;
+}
+#newPage:hover{
+    color: rgb(255, 255, 255);
+}
+
+
+
+
+
+
+
+
